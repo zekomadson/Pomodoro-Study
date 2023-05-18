@@ -12,3 +12,4 @@
   - realistic or animated / lo-fi 
   - Ability to choose location 
   - Ability to use current location
+- Ability to add music / playlist you want to add.
